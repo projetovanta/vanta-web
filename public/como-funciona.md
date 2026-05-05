@@ -1,6 +1,6 @@
 # Como funciona a VANTA
 
-A VANTA é uma plataforma de vida noturna com app mobile (PWA) e site desktop. Paridade funcional entre os dois canais: qualquer coisa que se faz em um, se faz no outro.
+A VANTA é uma plataforma de vida noturna com **App** mobile (iOS, Android, e acessível também via navegador em app.maisvanta.com) e **Site** institucional/SEO (este, maisvanta.com). Paridade funcional entre os dois canais: qualquer coisa que se faz em um, se faz no outro.
 
 ## As 5 abas do app
 

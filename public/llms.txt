@@ -1,6 +1,6 @@
 # VANTA
 
-> VANTA é uma plataforma brasileira de vida noturna e eventos que opera em quatro camadas integradas: descoberta e compra de ingressos, rede social entre frequentadores, clube de fidelidade com benefícios reais (MAIS VANTA) e ferramentas de operação para casas noturnas, produtores e promoters. Funciona como app mobile (PWA) e site desktop em www.maisvanta.com, com paridade funcional entre os dois canais.
+> VANTA é uma plataforma brasileira de vida noturna e eventos que opera em quatro camadas integradas: descoberta e compra de ingressos, rede social entre frequentadores, clube de fidelidade com benefícios reais (MAIS VANTA) e ferramentas de operação para casas noturnas, produtores e promoters. Funciona como **App** mobile (iOS, Android, e via navegador em app.maisvanta.com) e **Site** institucional em www.maisvanta.com — paridade funcional entre os dois canais.
 
 ## O que é
 
