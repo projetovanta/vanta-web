@@ -33,7 +33,7 @@ const SKIP_PATH_PREFIXES = [
   "/admin", // redirect próprio em next.config.ts
 ];
 
-export async function proxy(request: NextRequest) {
+export async function middleware(request: NextRequest) {
   const { pathname, searchParams } = request.nextUrl;
 
   // Tenta redirect mobile→app PRIMEIRO (antes de tocar em sessão)
